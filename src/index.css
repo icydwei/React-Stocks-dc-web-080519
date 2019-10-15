@@ -12,6 +12,13 @@ h2{
   text-align: center;
 }
 
+.card.portfolio{
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #3067C7;
+}
+
 .list-group{
   width: 50%;
   margin: 0 auto;
